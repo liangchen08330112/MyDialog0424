@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity5">
+
+    <TextView
+        android:id="@+id/textView_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="请选择你周末经常做的事：" />
+
+    <CheckBox
+        android:id="@+id/checkBox_playing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="打王者荣耀" />
+
+    <CheckBox
+        android:id="@+id/checkBox_English"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="备考英语四级" />
+
+    <CheckBox
+        android:id="@+id/checkBox_programming"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="写代码" />
+
+    <TextView
+        android:id="@+id/textView_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="您选择了：" />
+</LinearLayout>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.edu.sict.mydialog">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyDialog">
+        <activity
+            android:name=".Taobao"
+            android:exported="true" >
+        </activity>
+        <activity
+            android:name=".InfoCollection"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".MultiDialog"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".QQList"
+            android:exported="false" />
+        <activity
+            android:name=".Gesture"
+            android:exported="false" />
+        <activity
+            android:name=".List"
+            android:exported="false" />
+        <activity
+            android:name=".Movie0407"
+            android:exported="false" />
+        <activity
+            android:name=".DbHelper"
+            android:exported="false" />
+        <activity
+            android:name=".Words"
+            android:exported="true" />
+        <activity
+            android:name=".SQLiteTest"
+            android:exported="false" />
+        <activity
+            android:name=".Opening"
+            android:exported="false" />
+        <activity
+            android:name=".Contacts"
+            android:exported="true" />
+        <activity
+            android:name=".MultiFunctions"
+            android:exported="true" />
+        <activity
+            android:name=".Diary"
+            android:exported="false" />
+        <activity
+            android:name=".SharedPreference"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity7"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity6"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity5"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

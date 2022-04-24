@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="school1">
+        <item>云计算技术与应用产业学院</item>
+        <item>冷链物流与供应链产业学院</item>
+        <item>文化创意产业学院</item>
+        <item>乡村振兴产业学院</item>
+        <item>食品工业产业学院</item>
+        <item>健康养老产业学院</item>
+    </string-array>
+</resources>

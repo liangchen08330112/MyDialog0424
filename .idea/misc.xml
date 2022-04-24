@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_contacts.xml" value="0.264" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_db_helper.xml" value="0.1671875" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_diary.xml" value="0.264" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_gesture.xml" value="0.1" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_info_collection.xml" value="0.1" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_list.xml" value="0.25364583333333335" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_main2.xml" value="0.25364583333333335" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_main3.xml" value="0.264" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_main4.xml" value="0.24094202898550723" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_main5.xml" value="0.25364583333333335" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_main6.xml" value="0.16354166666666667" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_main7.xml" value="0.25364583333333335" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_multi_dialog.xml" value="0.25364583333333335" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_multi_functions.xml" value="0.25364583333333335" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_opening.xml" value="0.264" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_qqlist.xml" value="0.1" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_shared_preference.xml" value="0.1" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_sqlite_test.xml" value="0.25364583333333335" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_taobao.xml" value="0.25364583333333335" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/activity_words.xml" value="0.25364583333333335" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/griditem_taobao.xml" value="0.1" />
+        <entry key="..\:/MyDialog/app/src/main/res/layout/list_item.xml" value="0.3069306930693069" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".List">
+
+    <TextView
+        android:id="@+id/textView_method1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="方法一：纯XML布局" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/school1"/>
+
+    <TextView
+        android:id="@+id/textView_method2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="方法二：ListView+ArrayAdapter" />
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
